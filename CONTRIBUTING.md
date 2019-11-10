@@ -1,10 +1,9 @@
-To get started, <a href="https://www.clahub.com/agreements/linboard/linboard">sign the Contributor License Agreement</a>.
 
 # Contributing
 
 We love pull requests from everyone.
 
-1. To get started, <a href="https://www.clahub.com/agreements/linboard/linboard">sign the Contributor License Agreement</a>.
+1. To get started, <a href="https://www.clahub.com/agreements/tallship/linboard">sign the Contributor License Agreement</a>.
 
 By participating in this project, you
 agree to abide by the Linboard Linux [code of conduct].
